@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igor Sousa
 
 - 🔭 Atualmente trabalho como Desenvolverdor ETL
-- 🌱 Estudando SQL
+<!-- - 🌱 Estudando SQL -->
 
 <div align="center">
   <a href="https://github.com/igorsousa0">
